@@ -1,0 +1,6 @@
+framework module Pods_Roda_Driver {
+  umbrella header "Pods-Roda Driver-umbrella.h"
+
+  export *
+  module * { export * }
+}
